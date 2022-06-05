@@ -1,0 +1,6 @@
+.menItem{
+    display: grid;
+    grid-template-columns: repeat(4,ifr);
+    grid-template-rows: auto;
+    gap: 20px;
+}
